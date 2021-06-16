@@ -11,4 +11,5 @@ video {
 
 div > video {
   width: 100px;
+  opacity: 1;
 }
